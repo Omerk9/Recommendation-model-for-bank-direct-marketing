@@ -1,5 +1,5 @@
 """
-Authors:
+Author:
 Omer Keidar 307887984
 
 Machine Learning and Data Mining Class Final Project
